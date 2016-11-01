@@ -1,5 +1,4 @@
-Lab2/java/*.java
-
+*.class
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
